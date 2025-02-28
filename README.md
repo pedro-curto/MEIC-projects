@@ -8,7 +8,7 @@ This repository is an index for the most relevant projects I completed during my
 [DIDA Key-Value Store](https://github.com/pedro-curto/DAD-KVS) (Course - Design and Implementation of Distributed Applications)
 - Techonologies: Java, gRPC
 
-[SD-TupleSpaces](https://github.com/pedro-curto/MessagIST) (Course - Network and Computer Security)
+[MessagIST](https://github.com/pedro-curto/MessagIST) (Course - Network and Computer Security)
 - Technologies: Java (JCA), Shell
 
 [NLP Project](https://github.com/pedro-curto/NLP-Project) (Course - Natural Language)
