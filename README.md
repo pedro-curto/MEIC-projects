@@ -16,3 +16,10 @@ This repository is an index for the most relevant projects I completed during my
 
 [Deep Learning Homeworks](https://github.com/pedro-curto/DL-HWs) (Course - Deep Learning)
 - Technologies: Python (PyTorch)
+
+### Semester 2
+[DepChain](https://github.com/pedro-curto/DepChain) (Course - Highly Dependable Systems)
+- Technologies: Java, Shell, Solidity
+
+[PADI Homeworks](https://github.com/pedro-curto/Labs-PADI) (Course - Planning, Learning and Intelligent Decision Making)
+- Technologies: Python
