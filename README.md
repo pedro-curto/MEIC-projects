@@ -21,5 +21,8 @@ This repository is an index for the most relevant projects I completed during my
 [DepChain](https://github.com/pedro-curto/DepChain) (Course - Highly Dependable Systems)
 - Technologies: Java, Shell, Solidity
 
+[ChargIST](https://github.com/pedro-curto/ChargIST) (Course - Mobile and Ubiquitous Computing)
+- Technologies: Kotlin, Android
+
 [PADI Homeworks](https://github.com/pedro-curto/Labs-PADI) (Course - Planning, Learning and Intelligent Decision Making)
 - Technologies: Python
